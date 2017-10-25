@@ -2094,6 +2094,12 @@
 				margin: 0;
 			}
 
+		/* Respuesta Formulario */	
+			#failure, #success {
+			   color: #6EA070;
+			   display:none;  
+			}
+
 		/* Copyright */
 
 			#copyright {
