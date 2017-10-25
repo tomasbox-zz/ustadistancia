@@ -53,5 +53,5 @@ createform.appendChild(messagebreak);
 var submitelement = document.createElement('input'); // Append Submit Button
 submitelement.setAttribute("type", "submit");
 submitelement.setAttribute("name", "dsubmit");
-submitelement.setAttribute("value", "Submit");
+submitelement.setAttribute("value", "Enviar");
 createform.appendChild(submitelement);
